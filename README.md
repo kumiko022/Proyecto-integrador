@@ -6,27 +6,27 @@ El sistema permite **registrar, mostrar, ordenar, buscar, actualizar y generar r
 
 ---
 
-## 📌 Funcionalidades principales
+## 🥶 Funcionalidades principales
 
-### ✔ Registrar productos  
+### 🛒 Registrar productos  
 Permite agregar productos indicando nombre, precio y cantidad, con validación de datos.
 
-### ✔ Mostrar productos  
+### 😸 Mostrar productos  
 Imprime la lista completa de productos almacenados en el inventario.
 
-### ✔ Ordenar productos  
+### 🔥 Ordenar productos  
 Tres métodos de ordenamiento implementados:
 - **Burbuja** → ordena por precio  
 - **Selección** → ordena por nombre  
 - **Inserción** → ordena por cantidad  
 
-### ✔ Buscar producto  
+### 🔍 Buscar producto  
 Búsqueda exacta por nombre, mostrando los datos del producto encontrado.
 
 ### ✔ Actualizar producto  
 Permite modificar el precio o la cantidad de un producto existente.
 
-### ✔ Reporte final  
+### 📋 Reporte final  
 Calcula:
 - Total de productos registrados  
 - Valor total del inventario  
@@ -34,7 +34,7 @@ Calcula:
 
 ---
 
-## 🧱 Estructura del proyecto
+## Estructura del proyecto
 
 El sistema utiliza un `struct` para representar a cada producto:
 
